@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sohgaiyai.weiqiangwei.com/sitemap.xml
